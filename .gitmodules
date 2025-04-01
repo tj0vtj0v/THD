@@ -1,3 +1,4 @@
 [submodule "KI-B"]
 	path = KI-B
 	url = git@github.com:tj0vtj0v/KI-B.git
+	branch = main
